@@ -6,7 +6,6 @@
 </p>
 
 ---
-
 ## 🚀 About Me  
 - 🔭 I’m currently working on **ShopSwift – A Backend Shopping App**  
 - 🌱 I’m currently learning **Node.js backend architecture, MongoDB optimization & Firebase features**  
