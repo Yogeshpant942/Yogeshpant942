@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Android & Backend Developer from India</h3>
 
 # 💫 About Me:
-I’m currently working on improving my Android development skills and building robust mobile applications. I’m looking to collaborate on Android and backend development projects where I can contribute meaningful features and learn from experienced developers. I’m also seeking help with advanced Android concepts such as Jetpack Compose and scalable app architecture. Currently, I’m learning modern Android frameworks, Firebase integrations, backend API design, and strengthening my DSA foundations. Feel free to ask me about Android development, MVVM, Firebase, Node.js backend, MongoDB, or anything related to mobile and full-stack development.
+I’m currently working on improving my Android development skills and building robust mobile applications. I’m looking to collaborate on Android and backend development projects where I can contribute meaningful features and learn from experienced developers. I’m also seeking help with  scalable app architecture. Currently, I’m learning modern Android frameworks, Firebase integrations, backend API design, and strengthening my DSA foundations. Feel free to ask me about Android development, MVVM, Firebase, Node.js backend, MongoDB, or anything related to mobile and full-stack development.
 
 
 ## 🌐 Socials:
