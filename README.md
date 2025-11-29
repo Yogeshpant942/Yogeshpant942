@@ -64,6 +64,9 @@
 <br clear="both">
 
 <!-- Snake animation -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Yogeshpant942/Yogeshpant942/output/snake.svg" alt="Snake animation" />
-</p>
+</p> -->
+
+![snake gif](https://github.com/Yogeshpant942/Yogeshpant942/blob/output/github-snake-dark.svg)
+
